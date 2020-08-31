@@ -1,5 +1,3 @@
-/* C Program to Find Factors of a Number using While Loop */
-//ให้ P(x) คือผลรวมตัวเลขตั้งแต่ 1..(x - 1) ที่หาร x ได้ลงตัว เช่น P(28) = 1 + 2 + 4 + 7 + 14 = 28 ให้ pass
 
 
 #include <stdio.h>
